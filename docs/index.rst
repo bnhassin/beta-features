@@ -1,2 +1,3 @@
-<Beta Features>
+<title>
+
 Welcome to Read the Docs!
