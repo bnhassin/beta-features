@@ -1,1 +1,2 @@
-Welcome to Read the Docs!
+pip install .[docs]
+python package/setup.py install
