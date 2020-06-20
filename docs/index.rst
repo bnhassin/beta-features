@@ -1,2 +1,2 @@
 pip install .[docs]
-python package/setup.py install
+python package/setup.py install 
