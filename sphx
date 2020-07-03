@@ -1,1 +1,3 @@
 pip install sphinx
+cd /path/to/project
+mkdir docs
